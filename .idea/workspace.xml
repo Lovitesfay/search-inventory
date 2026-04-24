@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="19d29041-25ff-42cf-a689-0f8f904d1d2f" name="Changes" comment="added the buffers" />
+    <list default="true" id="19d29041-25ff-42cf-a689-0f8f904d1d2f" name="Changes" comment="added buffers" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -72,7 +72,7 @@
       <option name="presentableId" value="Default" />
       <updated>1776903647261</updated>
       <workItem from="1776909326077" duration="72000" />
-      <workItem from="1776967096769" duration="13921000" />
+      <workItem from="1776967096769" duration="14134000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit">
       <option name="closed" value="true" />
@@ -106,7 +106,15 @@
       <option name="project" value="LOCAL" />
       <updated>1777001210139</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="added buffers">
+      <option name="closed" value="true" />
+      <created>1777001674596</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1777001674599</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -116,7 +124,8 @@
     <MESSAGE value="First Commit" />
     <MESSAGE value="Second Commit" />
     <MESSAGE value="added the buffers" />
-    <option name="LAST_COMMIT_MESSAGE" value="added the buffers" />
+    <MESSAGE value="added buffers" />
+    <option name="LAST_COMMIT_MESSAGE" value="added buffers" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
